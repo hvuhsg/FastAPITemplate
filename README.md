@@ -1,0 +1,2 @@
+# FastAPITemplate
+FastAPI template project
